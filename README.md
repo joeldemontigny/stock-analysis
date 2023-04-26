@@ -8,3 +8,5 @@ The percentage change from the opening price at the beginning of a given year to
 Solution file as Excel along with the following is uploaded:
 - VBA code
 - Screenshots of three years (2020, 2019, 2018)
+
+Received assistance by LA through AskBCS for coding additional "Ticker" infor in column "P".  
